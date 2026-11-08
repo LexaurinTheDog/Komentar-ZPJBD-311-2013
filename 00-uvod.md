@@ -2,7 +2,7 @@
 
 > **Znění účinné od 1. července 2020** (dokument e-Sbírky `SB-2013-00311_2020-07-01`, nejnovější místně dostupná konsolidace). Komentář je zpracován **výhradně z lokálních materiálů**; nevyužívá živé komerční právní databáze.
 >
-> **Metodická poznámka:** Místní materiály k zákonu neobsahují žádnou samostatnou judikaturní kartu, a komentář proto neuvádí spisové značky rozhodnutí soudů. Výklad vychází z textu zákona, jeho systematiky, z vazeb na občanský zákoník, zákon o obchodních korporacích, zákon o transformaci družstev a zákon o majetku státu a z obecných výkladových zásad. Tam, kde zákon otázku výslovně neřeší, komentář to poctivě označuje jako **výkladovou otázku**. Zákon navazuje na dřívější úpravu v § 24 zákona č. 72/1994 Sb., o vlastnictví bytů; kontinuitu s tímto zrušeným předpisem komentář zmiňuje jen obecně.
+> **Metodická poznámka:** Místní materiály k zákonu obsahují jedinou judikaturní kartu Nejvyššího soudu (NS 27 Cdo 5168/2017, citovanou u § 3, viz [judikatura/](judikatura/README.md)), která se zákona týká jen nepřímo; jiné spisové značky rozhodnutí soudů komentář neuvádí. Výklad vychází z textu zákona, jeho systematiky, z vazeb na občanský zákoník, zákon o obchodních korporacích, zákon o transformaci družstev a zákon o majetku státu a z obecných výkladových zásad. Tam, kde zákon otázku výslovně neřeší, komentář to poctivě označuje jako **výkladovou otázku**. Zákon navazuje na dřívější úpravu v § 24 zákona č. 72/1994 Sb., o vlastnictví bytů; kontinuitu s tímto zrušeným předpisem komentář zmiňuje jen obecně.
 
 ---
 
@@ -52,7 +52,7 @@ Oprávněným členem (§ 8, § 17) je jen **fyzická osoba**, která je **člen
 
 ### Bezúplatnost a vypořádání členského podílu
 
-Převod na oprávněného člena je **ze zákona bezúplatný** (§ 3 odst. 1); člen hradí jen náklady s převodem spojené. Členský podíl ve smyslu dobových předpisů se nabytím jednotky **vypořádává ze zákona** a totéž platí o základním členském vkladu, byl-li zdrojem financování výstavby; má-li člen v družstvu setrvat, musí do 30 dnů od nabytí vlastnického práva zaplatit základní členský vklad podle stanov, jinak jeho členství zaniká (§ 3 odst. 2).
+Převod na oprávněného člena je **ze zákona bezúplatný** (§ 3 odst. 1); člen hradí jen náklady s převodem spojené. Členský podíl ve smyslu dobových předpisů se nabytím jednotky **vypořádává ze zákona** a totéž platí o základním členském vkladu, byl-li zdrojem financování výstavby; má-li člen v družstvu setrvat, musí do 30 dnů od nabytí vlastnického práva zaplatit základní členský vklad podle stanov, jinak jeho členství zaniká (§ 3 odst. 2). Místní karta NS 27 Cdo 5168/2017 ([judikatura/NS-27-Cdo-5168-2017.md](judikatura/NS-27-Cdo-5168-2017.md)) k obecnému vypořádacímu podílu bývalého člena bytového družstva (přihlédnutí k obvyklé tržní hodnotě členského podílu) s § 3 souvisí jen nepřímo a majetkovou účast vypořádanou nabytím jednotky znovu neotevírá.
 
 ### Dvojkolejné vymezení jednotky
 
@@ -112,7 +112,7 @@ Doprovodné soubory: [ZASADY.md](ZASADY.md) (právní zásady doložené doslovn
 ## Poznámka k metodě
 
 - U každého paragrafu je v citačním bloku uvedeno **úplné doslovné znění** podle místní konsolidace účinné od 1. 7. 2020, pod ním oddíl `**Výklad:**` a dále oddíly F. Kazuistika, G. Protiargumenty a rizika, H. Praktický závěr.
-- Komentář **neobsahuje judikaturu** ani spisové značky, protože místní materiály k tomuto zákonu žádnou judikaturní kartu neobsahují; sporná místa jsou výslovně označena jako výkladové otázky.
+- Komentář cituje jen jednu místní judikaturní kartu Nejvyššího soudu (NS 27 Cdo 5168/2017 u § 3) a v navazujícím odstavci „K místní judikaturní kartě…“ výslovně uvádí, že jde o souvislost jen nepřímou; jinak judikaturu ani spisové značky neuvádí a sporná místa jsou výslovně označena jako výkladové otázky.
 - Odkazy na zrušený zákon o vlastnictví bytů a na zrušený občanský zákoník z roku 1964 slouží k vysvětlení kontinuity a výchozích právních vztahů; pro posouzení konkrétní věci je třeba ověřit znění rozhodné ke dni právní skutečnosti.
 - Novelizační části (§ 26 a § 28) jsou svou aplikací vyčerpány; platné znění § 60a zákona o majetku státu a zákona č. 1/2007 Sb. je třeba vyhledat v těchto předpisech.
 

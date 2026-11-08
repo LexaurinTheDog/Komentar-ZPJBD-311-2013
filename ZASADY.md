@@ -4,7 +4,7 @@
 
 ## Metoda
 
-Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — znění zákona citované v [01-predmet-prevod-jednotek.md](01-predmet-prevod-jednotek.md) a [02-sluzebnost-prispevky-svj-novely.md](02-sluzebnost-prispevky-svj-novely.md) a úvodní výklad v [00-uvod.md](00-uvod.md). Každá zásada je doložena doslovnou citací ze znění zákona nebo z výkladu v kapitolách s uvedením souboru a paragrafu. **Repozitář neobsahuje žádnou místní judikaturu** — v místních materiálech k zákonu č. 311/2013 Sb. není samostatná judikaturní karta. Zásady níže jsou proto dovozeny z textu zákona, jeho systematiky a explicitně vyjádřeného účelu — nikoli z judikatorních tezí. Tam, kde by u jiného předpisu stála judikatorní citace, je namístě poctivě uvést, že opora v rozhodovací praxi v místních pramenech chybí.
+Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — znění zákona citované v [01-predmet-prevod-jednotek.md](01-predmet-prevod-jednotek.md) a [02-sluzebnost-prispevky-svj-novely.md](02-sluzebnost-prispevky-svj-novely.md) a úvodní výklad v [00-uvod.md](00-uvod.md). Každá zásada je doložena doslovnou citací ze znění zákona nebo z výkladu v kapitolách s uvedením souboru a paragrafu. **Repozitář obsahuje jedinou místní judikaturní kartu** — NS 27 Cdo 5168/2017 ([judikatura/](judikatura/README.md)), citovanou u § 3, která se týká obecného vypořádacího podílu bývalého člena bytového družstva a se zákonem č. 311/2013 Sb. souvisí jen nepřímo. Zásady níže jsou proto dovozeny z textu zákona, jeho systematiky a explicitně vyjádřeného účelu — nikoli z judikatorních tezí; kartu zmiňuje jen zásada 2, a to s vymezením jejího dosahu. Tam, kde by u jiného předpisu stála judikatorní citace, je namístě poctivě uvést, že opora v rozhodovací praxi v místních pramenech chybí.
 
 Nadpis skupiny je orientační. Citace může vyjadřovat obecnou právní zásadu, ale také užší interpretační nebo aplikační pravidlo; její dosah proto nelze rozšiřovat nad rámec citovaného textu a systematického kontextu ustanovení.
 
@@ -59,6 +59,8 @@ Komentář k § 8 tento znak spojuje přímo s ekonomickým důvodem bezúplatno
 Druhou stranou téže zásady je zákaz dvojího prospěchu: kdo dostal jednotku bezúplatně, nemůže již žádat vrácení členského podílu, kterým stavbu financoval. Komentář k § 3 odst. 2 uvádí ([01-predmet-prevod-jednotek.md](01-predmet-prevod-jednotek.md), § 3):
 
 > „se nabytím jednotky vypořádává ze zákona, tj. člen nemá vůči družstvu nárok na jeho vrácení, ani když později členství skončí."
+
+Místní karta [NS 27 Cdo 5168/2017](judikatura/NS-27-Cdo-5168-2017.md), podle níž musí bytové družstvo při určení výše vypořádacího podílu bývalého člena zásadně přihlédnout k obvyklé (tržní) hodnotě jeho členského podílu, tuto zásadu neoslabuje: týká se obecného vypořádání při zániku členství, nikoli majetkové účasti vypořádané ze zákona nabytím jednotky, a souvisí s § 3 jen nepřímo.
 
 Stejné pravidlo zákon uplatňuje u služebnosti bytu v nástavbě a vestavbě ([02-sluzebnost-prispevky-svj-novely.md](02-sluzebnost-prispevky-svj-novely.md), § 19):
 

@@ -9,11 +9,11 @@
 Každá z třinácti vrstev odděluje místní zjištění, autorský test a dohledatelnou místní oporu. Tvrzení se při dalším psaní označuje podle své epistemické povahy:
 
 - **Text:** závěr přímo vyplývající z místního znění předpisu (citační bloky v kapitolách 01 a 02).
-- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže; pro tento zákon zatím žádná taková opora není.
+- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže; pro tento zákon je jedinou takovou oporou karta NS 27 Cdo 5168/2017 u § 3 (viz [judikatura/](judikatura/README.md)), která se zákona týká jen nepřímo.
 - **Syntéza:** autorské propojení textu, systematiky a místních pramenů.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo připouští více řešení; kapitoly ji samy označují jako „výkladovou otázku“.
 
-Místní korpus pro tuto mapu tvoří **3 kapitoly** (úvod a dvě komentářové kapitoly), **29 samostatně nadepsaných ustanovení** (§ 1 až § 29), **37 modalitních příkladů**, **7 zásad** a **0 místních karet rozhodnutí**. Kapitoly 01 a 02 obsahují **34 výslovných označení výkladové otázky**. Rejstřík ustanovení je dostupný v [INDEX.md](INDEX.md).
+Místní korpus pro tuto mapu tvoří **3 kapitoly** (úvod a dvě komentářové kapitoly), **29 samostatně nadepsaných ustanovení** (§ 1 až § 29), **37 modalitních příkladů**, **7 zásad** a **1 místní kartu rozhodnutí** (NS 27 Cdo 5168/2017 u § 3, nepřímá souvislost). Kapitoly 01 a 02 obsahují **34 výslovných označení výkladové otázky**. Rejstřík ustanovení je dostupný v [INDEX.md](INDEX.md).
 
 ## 1. Znění, novelizace a časová působnost
 
@@ -140,7 +140,7 @@ Každá kvalifikace musí propojit definiční znaky s právním následkem; pou
 **Hloubkový test.**
 - Rozložte pojem na nutné a případně alternativní znaky, pozitivní a negativní vymezení (např. nájem vzniklý „bez členského podílu“ vylučuje status oprávněného člena).
 - Uveďte typický případ, hraniční případ a skutečnost, která výsledek kvalifikace změní.
-- Stejný výraz z jiného předpisu nepřebírejte automaticky; členský podíl podle dobových předpisů není družstevním podílem podle ZOK a jednotka podle zákona o vlastnictví bytů není jednotkou podle § 1159 OZ.
+- Stejný výraz z jiného předpisu nepřebírejte automaticky; členský podíl podle dobových předpisů není družstevním podílem podle ZOK (proto ani členský podíl v právní větě místní karty NS 27 Cdo 5168/2017 nelze bez dalšího ztotožnit s legislativní zkratkou § 3 odst. 2) a jednotka podle zákona o vlastnictví bytů není jednotkou podle § 1159 OZ.
 - Ke každému pojmu připojte právní následek zařazení i nezařazení.
 
 **Místní opora.** [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní mapa právních modalit](PRAVNI-MODALITY.md); [Klíčové instituty](00-uvod.md)
@@ -267,14 +267,16 @@ Reprezentativní normativní vazby porušení a následku:
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Repozitář zatím neobsahuje místní karty rozhodnutí; složka `judikatura/` bude doplněna strojově později. Soubor zásad odkazuje na **0 místních karet s použitelnou citací** a kapitoly obsahují **0 spisových značek**.
-- [Úvod](00-uvod.md): „Místní materiály k zákonu neobsahují žádnou samostatnou judikaturní kartu, a komentář proto neuvádí spisové značky rozhodnutí soudů.“
-- [Poznámka k metodě](00-uvod.md): „Komentář neobsahuje judikaturu ani spisové značky, protože místní materiály k tomuto zákonu žádnou judikaturní kartu neobsahují; sporná místa jsou výslovně označena jako výkladové otázky.“
+Repozitář obsahuje složku [judikatura/](judikatura/README.md) s **1 místní kartou** Nejvyššího soudu (kat. A), citovanou u **1 z 29** ustanovení: NS 27 Cdo 5168/2017 u § 3. Soubor zásad ji zmiňuje u zásady 2 s vymezením dosahu; jiné spisové značky kapitoly neuvádějí.
+- [Úvod](00-uvod.md): „Místní materiály k zákonu obsahují jedinou judikaturní kartu Nejvyššího soudu (NS 27 Cdo 5168/2017, citovanou u § 3“
+- [§ 3 — karta NS 27 Cdo 5168/2017](01-predmet-prevod-jednotek.md) ([karta](judikatura/NS-27-Cdo-5168-2017.md)): „Souvislost karty s § 3 je jen nepřímá.“
+- [§ 3 — dosah karty](01-predmet-prevod-jednotek.md): „z karty nelze dovodit nárok na vypořádání majetkové účasti již vypořádané nabytím jednotky“
 
-Místní korpus neposkytuje rozpoznanou kartu ani citaci rozhodnutí; judikatorní závěr se proto nesmí domýšlet. Do doplnění složky `judikatura/` platí, že každý závěr v kapitolách stojí na textu, systematice a autorské syntéze.
+Karta řeší obecné určení vypořádacího podílu bývalého člena bytového družstva (přihlédnutí k obvyklé tržní hodnotě členského podílu), nikoli zvláštní zákonné vypořádání podle § 3 odst. 2. K vlastním otázkám ZPJBD (bezúplatnost a skrytá úplata, oprávněný člen, vypořádání úvěru, vracení státních příspěvků, služebnost bytu, vznik společenství vlastníků) místní korpus judikaturu neposkytuje a judikatorní závěr se nesmí domýšlet; každý takový závěr v kapitolách stojí na textu, systematice a autorské syntéze.
 
 **Hloubkový test.**
-- Po doplnění karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
+- U místní karty i u každé další doplněné karty oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady; karta obsahuje jen právní větu, nikoli plný text.
+- U karty NS 27 Cdo 5168/2017 výslovně oddělte obecné vypořádání podílu bývalého člena od zvláštního vypořádání podle § 3 odst. 2 a právní větu na vypořádání majetkové účasti nabytím jednotky nepřenášejte.
 - Ověřte, zda soud vykládal stejné znění (ZPJBD, nebo § 24 zákona o vlastnictví bytů), stejný právní problém a zda závěr nebyl později odlišen nebo překonán.
 - Rozhodnutí k předchozí úpravě převodů družstevních bytů nepřenášejte bez výslovného testu kontinuity: ZPJBD na rozdíl od dřívější úpravy nezakládá nárok člena na převod.
 - Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku a uveďte míru její stability.
@@ -380,7 +382,7 @@ Aplikační vrstvu lze ověřit zejména v:
 **Zjištění z místního komentáře.**
 Stav poznání je posuzován nad **3 kapitolami**. Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- místní karty rozhodnutí zatím nejsou; složka `judikatura/` bude doplněna strojově a soubor zásad zatím neposkytuje odkaz na kartu s citovatelnou tezí;
+- složka `judikatura/` obsahuje jen 1 místní kartu (NS 27 Cdo 5168/2017 u § 3) s nepřímou souvislostí; k vlastním institutům ZPJBD citovatelná judikatorní teze v místním korpusu chybí;
 - místní důvodová zpráva k zákonu č. 311/2013 Sb. není součástí repozitáře, historický argument proto stojí jen na kapitolách;
 - zákon o vlastnictví bytů je místně jen v původním znění z roku 1994 (znění § 9 do 30. 6. 2000 nutno ověřit) a zákon č. 1/2007 Sb. jen ve znění od 2. 1. 2007;
 - komentář vychází z konsolidace ZPJBD účinné od 1. 7. 2020 a pozdější změny nemusí být zohledněny;
@@ -401,13 +403,13 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
-| [Úvod — Komentář k zákonu č. 311/2013 Sb.](00-uvod.md) | ano | nenalezeno | ano | nenalezeno | ano | ano | nenalezeno | ano |
-| [Kapitola 1 — předmět úpravy a převody jednotek (§ 1–18)](01-predmet-prevod-jednotek.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
+| [Úvod — Komentář k zákonu č. 311/2013 Sb.](00-uvod.md) | ano | nenalezeno | ano | ano (odkaz na 1 kartu) | ano | ano | nenalezeno | ano |
+| [Kapitola 1 — předmět úpravy a převody jednotek (§ 1–18)](01-predmet-prevod-jednotek.md) | ano | ano | ano | ano (§ 3, nepřímá) | ano | ano | ano | ano |
 | [Kapitola 2 — služebnost, příspěvky, SVJ a novely (§ 19–29)](02-sluzebnost-prispevky-svj-novely.md) | ano | ano (v oddílech G) | ano | nenalezeno | ano | ano | ano | ano |
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** textový signál nebyl nalezen v žádné ze 3 kapitol; po strojovém doplnění složky `judikatura/` je nutné revidovat vrstvy 9 a 10.
+- **Judikatura:** jediná místní karta je zapracována v kapitole 1 u § 3 (nepřímá souvislost) a zmíněna v úvodu; kapitola 2 kartu nemá. Při doplnění dalších karet do složky `judikatura/` je nutné revidovat vrstvy 9 a 10.
 - **Důkazy:** samostatný důkazní blok chybí v [úvodu](00-uvod.md) a v [kapitole 2](02-sluzebnost-prispevky-svj-novely.md).
 - **Aplikace:** úvod modelovou situaci neobsahuje; to odpovídá jeho přehledové funkci.
 
@@ -442,7 +444,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 1. Text zákona, závěr soudu, převzatou doktrínu a vlastní syntézu vždy oddělte.
 2. Každé významné tvrzení musí být dohledatelné v místním prameni nebo označené jako otevřená otázka.
 3. Míru jistoty vyjádřete jako ustálený závěr, převažující výklad, spornou otázku nebo autorský návrh.
-4. Judikatorní závěr nepřenášejte mimo rozhodné znění, skutkový základ a procesní situaci; u tohoto zákona zatím žádný místní judikatorní závěr není.
+4. Judikatorní závěr nepřenášejte mimo rozhodné znění, skutkový základ a procesní situaci; u tohoto zákona je jedinou místní kartou NS 27 Cdo 5168/2017 (obecný vypořádací podíl v bytovém družstvu), kterou nelze přenášet na vypořádání podle § 3 odst. 2.
 5. Neuvádějte pouze výsledek; zpřístupněte argumentační cestu tak, aby ji bylo možné přezkoumat.
 
 ## Kontrola před publikací

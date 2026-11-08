@@ -2,7 +2,7 @@
 
 <!-- LOCAL-VYKLADOVE-OTAZKY-GENERATED -->
 
-> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu č. 311/2013 Sb. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md**, **PRAVNI-MODALITY.md** a **HLOUBKOVY-VYKLAD.md**. Místní důvodová zpráva ani místní karty rozhodnutí zatím k dispozici nejsou. Nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
+> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu č. 311/2013 Sb. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md**, **PRAVNI-MODALITY.md** a **HLOUBKOVY-VYKLAD.md**. Místní důvodová zpráva zatím k dispozici není; místní karta rozhodnutí je jen jedna (NS 27 Cdo 5168/2017 u § 3, nepřímá souvislost). Nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
 
 ## Jak dokument používat
 
@@ -132,11 +132,10 @@ Typický střet ukazuje § 21 odst. 4: doslovný text nezná výjimku pro zákon
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Repozitář zatím neobsahuje místní karty rozhodnutí; složka `judikatura/` bude doplněna strojově později. V systematickém souboru zásad je odkazováno na **0** místních karet s použitelnou citací a kapitoly neuvádějí žádnou spisovou značku.
-Úvod to výslovně uvádí: „Místní materiály k zákonu neobsahují žádnou samostatnou judikaturní kartu, a komentář proto neuvádí spisové značky rozhodnutí soudů.“
-Místní korpus tedy neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se proto nesmí domýšlet.
+Repozitář obsahuje **1** místní kartu rozhodnutí ve složce [judikatura/](judikatura/README.md): [NS 27 Cdo 5168/2017](judikatura/NS-27-Cdo-5168-2017.md), citovanou v kapitole 1 u § 3. Úvod to výslovně uvádí: „Místní materiály k zákonu obsahují jedinou judikaturní kartu Nejvyššího soudu (NS 27 Cdo 5168/2017, citovanou u § 3“.
+Karta se týká určení výše vypořádacího podílu bývalého člena bytového družstva s přihlédnutím k obvyklé (tržní) hodnotě členského podílu. Kapitola její dosah vymezuje úzce: „Souvislost karty s § 3 je jen nepřímá.“ A dále: „z karty nelze dovodit nárok na vypořádání majetkové účasti již vypořádané nabytím jednotky“. K vlastním institutům ZPJBD místní korpus citovatelnou judikatorní tezi neposkytuje; judikatorní odpověď se proto nesmí domýšlet.
 
-**Jak ji řešit.** Po doplnění karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění (ZPJBD, nebo předchozí § 24 zákona o vlastnictví bytů) a stejný právní problém. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; do doplnění označte chybějící judikaturu jako mezeru.
+**Jak ji řešit.** U místní karty i u každé další doplněné karty oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady; karta obsahuje jen právní větu. Ověřte, zda soud vykládal stejné znění (ZPJBD, nebo předchozí § 24 zákona o vlastnictví bytů) a stejný právní problém — u karty NS 27 Cdo 5168/2017 tomu tak není, jde o obecné družstevní vypořádání. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; u ostatních ustanovení označte chybějící judikaturu jako mezeru.
 
 **Místní opora.** [poznámka k metodě](00-uvod.md); [místní zásady a jejich metoda](ZASADY.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
 
@@ -188,9 +187,9 @@ Vzorem úplné subsumpce s výpočtem je kazuistika k § 22: „Při započtení
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří **3** kapitoly a **0** karet rozhodnutí, doplněné samostatnou mapou zásad, modalit a hloubkového výkladu. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří **3** kapitoly a **1** karta rozhodnutí (u § 3, nepřímá souvislost), doplněné samostatnou mapou zásad, modalit a hloubkového výkladu. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura zatím neposkytuje citovatelnou tezi; složka `judikatura/` bude doplněna strojově;
+- místní judikatura neposkytuje citovatelnou tezi k vlastním institutům ZPJBD; jediná karta (NS 27 Cdo 5168/2017 u § 3) se týká obecného vypořádacího podílu v bytovém družstvu;
 - místní důvodová zpráva není k dispozici;
 - zákon o vlastnictví bytů je místně jen v původním znění z roku 1994 a zákon č. 1/2007 Sb. jen ve znění od 2. 1. 2007;
 - znění ZPJBD odpovídá konsolidaci účinné od 1. 7. 2020;

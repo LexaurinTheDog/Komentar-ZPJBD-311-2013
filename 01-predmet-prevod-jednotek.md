@@ -141,6 +141,8 @@ Výčet je spíše programový; normativní obsah mají až navazující ustanov
 - *NS* [27 Cdo 5168/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/73B487250BD2CC31C12582B100525F90?openDocument) — 29. 3. 2018, kat. A
   > „Při určení výše vypořádacího podílu bytové družstvo zásadně musí přihlédnout k obvyklé (tržní) hodnotě členského podílu bývalého člena družstva tak, aby mezi touto hodnotou a výší vypořádacího podílu nebyly neodůvodněné rozdíly"
 
+**K místní judikaturní kartě NS 27 Cdo 5168/2017:** Souvislost karty s § 3 je jen nepřímá. Právní věta se týká určení výše vypořádacího podílu bývalého člena bytového družstva a ukládá družstvu zásadně přihlédnout k obvyklé (tržní) hodnotě jeho členského podílu, aby mezi touto hodnotou a výší vypořádacího podílu nebyly neodůvodněné rozdíly; § 3 odst. 2 naproti tomu upravuje zvláštní zákonné vypořádání majetkové účasti oprávněného člena dnem, kdy nabyl jednotku nebo skupinový rodinný dům. Pojem členského podílu v právní větě proto nelze bez dalšího ztotožnit s legislativní zkratkou § 3 odst. 2 (majetková účast podle předpisů o družstevní bytové výstavbě) a z karty nelze dovodit nárok na vypořádání majetkové účasti již vypořádané nabytím jednotky. Vodítkem může karta být nanejvýš tam, kde se po převodu ještě vypořádává jiná majetková účast podle stanov a obecné družstevní úpravy (srov. variantu kazuistiky níže).
+
 #### Bezúplatnost (odst. 1)
 
 Převod z převádějícího družstva na oprávněného člena je **ze zákona bezúplatný** — cenu nelze sjednat. Ekonomickým důvodem je, že člen (nebo jeho předchůdce) již stavbu spolufinancoval členským podílem, zbytek financoval stát příspěvkem a úvěrem; převodem se tak vlastnicky „realizuje" dříve poskytnuté plnění. Bezúplatnost se nevztahuje na **náklady s převodem spojené** (zaměření, prohlášení vlastníka, správní poplatek za vklad, ověření podpisů apod.) a nedotýká se povinnosti uhradit část nesplaceného úvěru a vypořádat fondy podle § 9 — nejde o úplatu za jednotku, ale o převzetí dluhového břemene, které na jednotku připadá. Sjednání „kupní ceny" nad rámec těchto položek odporuje zákonu a je **výkladovou otázkou**, zda vede k neplatnosti celé smlouvy, nebo jen dotčeného ujednání. Pro daňové posouzení je relevantní, že zákon o daních z příjmů v místně dostupném znění osvobozuje příjem z nabytí vlastnického práva k jednotce zahrnující družstevní byt členem-nájemcem, který se na pořízení podílel členským vkladem (§ 4 odst. 1 písm. zc) ZDP — znění ověřit k datu převodu).
@@ -161,12 +163,13 @@ Majetková účast člena („členský podíl" ve smyslu dobových předpisů �
 
 **5. Řešení.** Člen může požadovat převod bez příspěvku; zaplacený příspěvek lze nárokovat jako bezdůvodné obohacení. Členství zaniká uplynutím 30denní lhůty; bez členství však člen o vlastnictví jednotky nepřichází.
 
-**6. Varianty.** Základní členský vklad nebyl zdrojem financování výstavby — vypořádání ani zánik členství podle odst. 2 věty druhé nenastává, vklad se vypořádá podle stanov a ZOK.
+**6. Varianty.** Základní členský vklad nebyl zdrojem financování výstavby — vypořádání ani zánik členství podle odst. 2 věty druhé nenastává, vklad se vypořádá podle stanov a ZOK; při určení výše vypořádacího podílu je namístě zohlednit místní kartu NS 27 Cdo 5168/2017 (přihlédnutí k obvyklé hodnotě členského podílu), a to s vědomím, že karta neřeší vztah k § 3 odst. 2.
 
 #### G. Protiargumenty a rizika
 
 - *„Náklady převodu lze paušalizovat."* Lze účtovat jen skutečné, doložitelné náklady převodu; paušál nad jejich rámec je skrytou úplatou.
 - *„Člen má nárok na vrácení členského podílu."* Odst. 2 vypořádání fingoval dnem nabytí jednotky.
+- *„Při vypořádání je třeba přihlédnout k tržní hodnotě členského podílu (NS 27 Cdo 5168/2017)."* Místní karta se týká určení vypořádacího podílu bývalého člena bytového družstva podle obecné úpravy; majetkovou účast vypořádanou podle odst. 2 nabytím jednotky znovu neotevírá. Uplatnit ji lze nanejvýš u vypořádání jiné majetkové účasti, která převodem vypořádána nebyla.
 - *Riziko:* běh 30denní lhůty od nabytí vlastnického práva, o němž se člen dozví až z vyrozumění katastru.
 
 #### H. Praktický závěr
