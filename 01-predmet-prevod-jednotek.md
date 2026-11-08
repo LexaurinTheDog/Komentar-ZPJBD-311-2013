@@ -136,6 +136,11 @@ Výčet je spíše programový; normativní obsah mají až navazující ustanov
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 5168/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/73B487250BD2CC31C12582B100525F90?openDocument) — 29. 3. 2018, kat. A
+  > „Při určení výše vypořádacího podílu bytové družstvo zásadně musí přihlédnout k obvyklé (tržní) hodnotě členského podílu bývalého člena družstva tak, aby mezi touto hodnotou a výší vypořádacího podílu nebyly neodůvodněné rozdíly"
+
 #### Bezúplatnost (odst. 1)
 
 Převod z převádějícího družstva na oprávněného člena je **ze zákona bezúplatný** — cenu nelze sjednat. Ekonomickým důvodem je, že člen (nebo jeho předchůdce) již stavbu spolufinancoval členským podílem, zbytek financoval stát příspěvkem a úvěrem; převodem se tak vlastnicky „realizuje" dříve poskytnuté plnění. Bezúplatnost se nevztahuje na **náklady s převodem spojené** (zaměření, prohlášení vlastníka, správní poplatek za vklad, ověření podpisů apod.) a nedotýká se povinnosti uhradit část nesplaceného úvěru a vypořádat fondy podle § 9 — nejde o úplatu za jednotku, ale o převzetí dluhového břemene, které na jednotku připadá. Sjednání „kupní ceny" nad rámec těchto položek odporuje zákonu a je **výkladovou otázkou**, zda vede k neplatnosti celé smlouvy, nebo jen dotčeného ujednání. Pro daňové posouzení je relevantní, že zákon o daních z příjmů v místně dostupném znění osvobozuje příjem z nabytí vlastnického práva k jednotce zahrnující družstevní byt členem-nájemcem, který se na pořízení podílel členským vkladem (§ 4 odst. 1 písm. zc) ZDP — znění ověřit k datu převodu).
